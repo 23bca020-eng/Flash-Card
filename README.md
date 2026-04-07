@@ -1,4 +1,4 @@
-# Flashcard App
+# Flashcard 
 
 This is a simple Android application used to create and study flashcards.
 
